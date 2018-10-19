@@ -1,0 +1,18 @@
+﻿.upload-btn--label {
+    background: #e34074;
+    color: whitesmoke;
+    cursor: pointer;
+    width: 25%;
+    height: 48px;
+    border-radius: 7px;
+    text-align: center;
+    line-height: 45px;
+    font-size: 21px;
+}
+
+#upload-btn--label:hover {
+    background-color: #a51845;
+}
+#upload-btn {
+    display: none;
+}

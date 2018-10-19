@@ -1,0 +1,9 @@
+C:\Users\Mihai\source\repos\FileHolder\FileHolder.Models\bin\Debug\netcoreapp2.0\FileHolder.Models.deps.json
+C:\Users\Mihai\source\repos\FileHolder\FileHolder.Models\bin\Debug\netcoreapp2.0\FileHolder.Models.dll
+C:\Users\Mihai\source\repos\FileHolder\FileHolder.Models\bin\Debug\netcoreapp2.0\FileHolder.Models.pdb
+C:\Users\Mihai\source\repos\FileHolder\FileHolder.Models\obj\Debug\netcoreapp2.0\FileHolder.Models.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\source\repos\FileHolder\FileHolder.Models\obj\Debug\netcoreapp2.0\FileHolder.Models.AssemblyInfoInputs.cache
+C:\Users\Mihai\source\repos\FileHolder\FileHolder.Models\obj\Debug\netcoreapp2.0\FileHolder.Models.AssemblyInfo.cs
+C:\Users\Mihai\source\repos\FileHolder\FileHolder.Models\obj\Debug\netcoreapp2.0\FileHolder.Models.dll
+C:\Users\Mihai\source\repos\FileHolder\FileHolder.Models\obj\Debug\netcoreapp2.0\FileHolder.Models.pdb
+C:\Users\Mihai\source\repos\FileHolder\FileHolder.Models\obj\Debug\netcoreapp2.0\FileHolder.Models.csprojAssemblyReference.cache

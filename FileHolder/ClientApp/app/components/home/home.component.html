@@ -1,0 +1,20 @@
+﻿<div>
+    <article>
+        <h3>{{introText}}</h3>
+    </article>
+    <div>
+        <h3>{{headerText}}</h3>
+    </div>
+    <label for="upload-btn" id="upload-btn--label" class="upload-btn--label">Choose file</label>
+    <input type="file"
+           id="upload-btn"
+           (change)="processImage($event)"
+           accept="png, jpeg, jpg"/>
+
+    <img *ngIf="url" [src]="url" id="preview-image" alt="Preview image" width="400px" height="200px"/>
+</div>
+
+<button *ngIf="url" 
+        type="submit" 
+        (click)="onSendClick()" 
+        class="upload-btn--label">Upload</button>

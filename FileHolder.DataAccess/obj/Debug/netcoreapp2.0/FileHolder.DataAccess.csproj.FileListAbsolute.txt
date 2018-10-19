@@ -1,0 +1,12 @@
+C:\Users\Mihai\source\repos\FileHolder\FileHolder.DataAccess\bin\Debug\netcoreapp2.0\FileHolder.DataAccess.deps.json
+C:\Users\Mihai\source\repos\FileHolder\FileHolder.DataAccess\bin\Debug\netcoreapp2.0\FileHolder.DataAccess.dll
+C:\Users\Mihai\source\repos\FileHolder\FileHolder.DataAccess\bin\Debug\netcoreapp2.0\FileHolder.Models.dll
+C:\Users\Mihai\source\repos\FileHolder\FileHolder.DataAccess\bin\Debug\netcoreapp2.0\FileHolder.Models.pdb
+C:\Users\Mihai\source\repos\FileHolder\FileHolder.DataAccess\obj\Debug\netcoreapp2.0\FileHolder.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\source\repos\FileHolder\FileHolder.DataAccess\obj\Debug\netcoreapp2.0\FileHolder.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Mihai\source\repos\FileHolder\FileHolder.DataAccess\obj\Debug\netcoreapp2.0\FileHolder.DataAccess.AssemblyInfo.cs
+C:\Users\Mihai\source\repos\FileHolder\FileHolder.DataAccess\obj\Debug\netcoreapp2.0\FileHolder.DataAccess.csproj.CopyComplete
+C:\Users\Mihai\source\repos\FileHolder\FileHolder.DataAccess\bin\Debug\netcoreapp2.0\FileHolder.DataAccess.pdb
+C:\Users\Mihai\source\repos\FileHolder\FileHolder.DataAccess\obj\Debug\netcoreapp2.0\FileHolder.DataAccess.dll
+C:\Users\Mihai\source\repos\FileHolder\FileHolder.DataAccess\obj\Debug\netcoreapp2.0\FileHolder.DataAccess.pdb
+C:\Users\Mihai\source\repos\FileHolder\FileHolder.DataAccess\obj\Debug\netcoreapp2.0\FileHolder.DataAccess.csprojAssemblyReference.cache

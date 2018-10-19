@@ -1,0 +1,16 @@
+C:\Users\Mihai\source\repos\FileHolder\TestConsole\bin\Debug\netcoreapp2.0\TestConsole.deps.json
+C:\Users\Mihai\source\repos\FileHolder\TestConsole\bin\Debug\netcoreapp2.0\TestConsole.runtimeconfig.json
+C:\Users\Mihai\source\repos\FileHolder\TestConsole\bin\Debug\netcoreapp2.0\TestConsole.runtimeconfig.dev.json
+C:\Users\Mihai\source\repos\FileHolder\TestConsole\bin\Debug\netcoreapp2.0\TestConsole.dll
+C:\Users\Mihai\source\repos\FileHolder\TestConsole\bin\Debug\netcoreapp2.0\TestConsole.pdb
+C:\Users\Mihai\source\repos\FileHolder\TestConsole\bin\Debug\netcoreapp2.0\FileHolder.Models.dll
+C:\Users\Mihai\source\repos\FileHolder\TestConsole\bin\Debug\netcoreapp2.0\FileHolder.Models.pdb
+C:\Users\Mihai\source\repos\FileHolder\TestConsole\obj\Debug\netcoreapp2.0\TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\source\repos\FileHolder\TestConsole\obj\Debug\netcoreapp2.0\TestConsole.AssemblyInfoInputs.cache
+C:\Users\Mihai\source\repos\FileHolder\TestConsole\obj\Debug\netcoreapp2.0\TestConsole.AssemblyInfo.cs
+C:\Users\Mihai\source\repos\FileHolder\TestConsole\obj\Debug\netcoreapp2.0\TestConsole.csproj.CopyComplete
+C:\Users\Mihai\source\repos\FileHolder\TestConsole\obj\Debug\netcoreapp2.0\TestConsole.dll
+C:\Users\Mihai\source\repos\FileHolder\TestConsole\obj\Debug\netcoreapp2.0\TestConsole.pdb
+C:\Users\Mihai\source\repos\FileHolder\TestConsole\bin\Debug\netcoreapp2.0\FileHolder.DataAccess.dll
+C:\Users\Mihai\source\repos\FileHolder\TestConsole\bin\Debug\netcoreapp2.0\FileHolder.DataAccess.pdb
+C:\Users\Mihai\source\repos\FileHolder\TestConsole\obj\Debug\netcoreapp2.0\TestConsole.csprojAssemblyReference.cache
